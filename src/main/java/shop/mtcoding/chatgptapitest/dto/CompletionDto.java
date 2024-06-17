@@ -6,13 +6,9 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.ToString;
 
-/**
- * 프롬프트 요청 DTO : gpt-3.5-turbo-instruct, babbage-002, davinci-002
- *
- * @author : lee
- * @fileName : CompletionDto
- * @since : 12/29/23
- */
+
+// 프롬프트 요청 DTO : gpt-3.5-turbo-instruct, babbage-002, davinci-002
+
 
 @Getter
 @ToString

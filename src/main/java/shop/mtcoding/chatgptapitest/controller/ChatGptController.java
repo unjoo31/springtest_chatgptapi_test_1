@@ -17,13 +17,6 @@ import shop.mtcoding.chatgptapitest.dto.ChatCompletionDto;
 import shop.mtcoding.chatgptapitest.dto.CompletionDto;
 import shop.mtcoding.chatgptapitest.service.ChatGptService;
 
-/**
- * ChatGPT API
- *
- * @author : lee
- * @fileName : ChatGPTController
- * @since : 12/29/23
- */
 @Slf4j
 @RestController
 @RequestMapping(value = "/api/v1/chatGpt")

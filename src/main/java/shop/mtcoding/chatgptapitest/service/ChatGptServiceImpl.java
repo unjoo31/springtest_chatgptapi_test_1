@@ -22,14 +22,6 @@ import shop.mtcoding.chatgptapitest.dto.ChatCompletionDto;
 import shop.mtcoding.chatgptapitest.dto.CompletionDto;
 import shop.mtcoding.chatgptapitest.service.ChatGptService;
 
-/**
- * ChatGPT Service 구현체
- *
- * @author : lee
- * @fileName : ChatGPTServiceImpl
- * @since : 12/29/23
- */
-
 @Service
 @Slf4j
 public class ChatGptServiceImpl implements ChatGptService{
